@@ -1,0 +1,25 @@
+img {
+    width: 300px;
+}
+body {
+    background-color: #faedcd;
+    margin-left: 125px;
+    margin-right: 125px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+h1{
+    text-align: center;
+    font-size: 60pt;
+    color:#6d6875;
+}
+
+h2, h3{
+    color:#b36a5e;
+}
+.school{
+    color: black;
+}
+.skills{
+    font-weight: bold;
+}
